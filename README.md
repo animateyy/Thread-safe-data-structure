@@ -1,1 +1,1 @@
-# Thread-safe-data-structure-single-linked-list-implementation-
+# Thread-safe-data-structure-single-linked-list-implementation
